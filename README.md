@@ -7,6 +7,7 @@ Welcome to my very first repository! I am learning how to use Git and GitHub to 
 - **Commits:** Snapshots of my progress.
 - **Branches:** Safe places to test new ideas.
 - **Pull Requests:** How to review and merge changes.
+- **Merge Requests:** Merge Chnages
 
 ## 🛠️ Tech Stack
 - Git & GitHub
